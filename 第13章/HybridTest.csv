@@ -1,0 +1,17 @@
+Make/Model,Class,Type,MPG
+Honda Civic,Small Car,Hybrid,37
+Honda Civic,Small Car,Conventional,28
+Toyota Prius,Small Car,Hybrid,44
+Toyota Corolla,Small Car,Conventional,32
+Chevrolet Malibu,Midsize Car,Hybrid,27
+Chevrolet Malibu,Midsize Car,Conventional,23
+Nissan Altima,Midsize Car,Hybrid,32
+Nissan Altima,Midsize Car,Conventional,25
+Ford Escape,Small SUV,Hybrid,27
+Ford Escape,Small SUV,Conventional,21
+Saturn Vue,Small SUV,Hybrid,28
+Saturn Vue,Small SUV,Conventional,22
+Lexus RX,Midsize SUV,Hybrid,23
+Lexus RX,Midsize SUV,Conventional,19
+Toyota Highlander,Midsize SUV,Hybrid,24
+Toyota Highlander,Midsize SUV,Conventional,18

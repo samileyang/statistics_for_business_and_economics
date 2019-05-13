@@ -1,0 +1,55 @@
+Car,Size,Price ($),Cost/Mile,Road-Test Score,Predicted Reliability,Value Score
+"Toyota Corolla (base, manual)",Small Sedan,"16,419",0.44,70,4,1.99
+Mazda3 i Touring (manual),Small Sedan,"18,895",0.50,74,5,1.94
+Toyota Corolla LE,Small Sedan,"18,404",0.47,71,4,1.89
+Mazda3 i Touring,Small Sedan,"19,745",0.52,70,5,1.82
+Hyundai Elantra GLS,Small Sedan,"18,445",0.53,80,3,1.64
+Nissan Sentra 2.0 SL,Small Sedan,"20,150",0.57,74,4,1.51
+Kia Forte Sedan EX,Small Sedan,"19,040",0.57,71,3,1.32
+Ford Focus SE,Small Sedan,"20,280",0.52,68,2,1.30
+Ford Fiesta SE,Small Sedan,"16,595",0.47,61,2,1.25
+Volkswagen Jetta SE (2.5),Small Sedan,"20,300",0.54,60,3,1.24
+Volkswagen Jetta TDI,Small Sedan,"25,100",0.50,68,2,1.18
+Chevrolet Cruze LS (1.8),Small Sedan,"18,375",0.57,67,1,0.96
+Chevrolet Cruze 1LT (1.4T),Small Sedan,"20,530",0.60,69,1,0.91
+Nissan Altima 2.5 S (4-cyl.),Family Sedan,"23,970",0.59,91,4,1.75
+Kia Optima LX (2.4),Family Sedan,"21,885",0.58,81,4,1.73
+Subaru Legacy 2.5i Premium,Family Sedan,"23,830",0.59,83,4,1.73
+Ford Fusion Hybrid,Family Sedan,"32,360",0.63,84,5,1.70
+Honda Accord LX-P (4-cyl.),Family Sedan,"23,730",0.56,80,4,1.62
+Mazda6 i Sport (4-cyl.),Family Sedan,"22,035",0.58,73,4,1.60
+Hyundai Sonata GLS (2.4),Family Sedan,"21,800",0.56,89,3,1.58
+Ford Fusion SE (4-cyl.),Family Sedan,"23,625",0.57,76,4,1.55
+Chevrolet Malibu LT (4-cyl.),Family Sedan,"24,115",0.57,74,3,1.48
+Kia Optima SX (2.0T),Family Sedan,"29,050",0.72,84,4,1.43
+Ford Fusion SEL (V6),Family Sedan,"28,400",0.67,80,4,1.42
+Nissan Altima 3.5 SR (V6),Family Sedan,"30,335",0.69,93,4,1.42
+Hyundai Sonata Limited (2.0T),Family Sedan,"28,090",0.66,89,3,1.39
+Honda Accord EX-L (V6),Family Sedan,"28,695",0.67,90,3,1.36
+Mazda6 s Grand Touring (V6),Family Sedan,"30,790",0.74,81,4,1.34
+"Ford Fusion SEL (V6, AWD)",Family Sedan,"30,055",0.71,75,4,1.32
+Subaru Legacy 3.6R Limited,Family Sedan,"30,094",0.71,88,3,1.29
+Chevrolet Malibu LTZ (V6),Family Sedan,"28,045",0.67,83,3,1.20
+Chrysler 200 Limited (V6),Family Sedan,"27,825",0.70,52,5,1.20
+Chevrolet Impala LT (3.6),Family Sedan,"28,995",0.67,63,3,1.05
+Lexus ES 350,Upscale Sedan,"38,615",0.77,91,5,1.45
+Acura TL (base),Upscale Sedan,"36,465",0.75,82,5,1.41
+Lexus IS 250,Upscale Sedan,"33,734",0.75,84,5,1.40
+Infiniti G25 Journey,Upscale Sedan,"34,225",0.73,86,4,1.37
+Lexus HS 250h Premium,Upscale Sedan,"38,939",0.75,83,4,1.36
+Acura TSX (4-cyl.),Upscale Sedan,"29,675",0.67,84,3,1.35
+Infiniti G37 Journey,Upscale Sedan,"37,225",0.79,95,4,1.33
+Toyota Avalon Limited,Upscale Sedan,"35,485",0.73,86,3,1.27
+Hyundai Genesis 3.8,Upscale Sedan,"39,850",0.78,92,3,1.22
+Volvo S60 T5,Upscale Sedan,"35,100",0.76,77,4,1.18
+Nissan Maxima 3.5 SV,Upscale Sedan,"33,700",0.78,83,3,1.17
+Buick Regal CXL (2.4),Upscale Sedan,"28,840",0.65,77,2,1.14
+Lincoln MKZ,Upscale Sedan,"37,160",0.80,77,4,1.12
+BMW 328i,Upscale Sedan,"39,175",0.79,77,3,1.10
+Audi A4 Premium Quattro,Upscale Sedan,"35,895",0.76,76,3,1.08
+Ford Taurus Limited,Upscale Sedan,"34,980",0.78,73,3,1.07
+Buick Regal CXL (turbo),Upscale Sedan,"32,135",0.71,79,2,1.06
+Mercedes-Benz C300 Sport,Upscale Sedan,"37,325",0.83,77,3,1.04
+Volkswagen CC Luxury (2.0T),Upscale Sedan,"32,680",0.73,82,2,1.04
+Saab 9-3 2.0T,Upscale Sedan,"31,615",0.70,69,3,1.00
+Buick LaCrosse CXS (V6),Upscale Sedan,"37,555",0.81,74,2,0.82

@@ -1,0 +1,310 @@
+Manufacturer,Displacement,Fuel,Drive,Hwy MPG
+Audi,2.0,Premium,F,30
+Audi,2.0,Premium,F,31
+Audi,2.0,Premium,F,31
+Audi,2.0,Premium,F,33
+Audi,2.0,Premium,A,29
+Audi,2.0,Premium,A,31
+Audi,2.0,Premium,A,27
+BMW,1.6,Premium,F,30
+BMW,1.6,Premium,F,35
+BMW,1.6,Premium,F,32
+BMW,1.6,Premium,F,32
+BMW,2.0,Premium,R,36
+BMW,2.0,Premium,R,34
+BMW,1.6,Premium,A,30
+BMW,1.6,Premium,A,31
+Chrysler Group LLC,2.4,Regular,F,29
+Ford Motor Company,2.0,Regular,F,38
+Ford Motor Company,2.0,Regular,F,37
+Ford Motor Company,2.0,Regular,F,36
+Ford Motor Company,2.0,Regular,F,38
+Ford Motor Company,2.0,Regular,F,36
+Ford Motor Company,2.0,Regular,F,40
+Ford Motor Company,2.0,Regular,F,40
+General Motors,2.4,Regular,F,32
+General Motors,1.4,Regular,F,37
+General Motors,1.4,Regular,F,40
+General Motors,1.8,Regular,F,35
+General Motors,1.8,Regular,F,35
+Honda,2.4,Regular,F,33
+Honda,2.4,Regular,F,32
+Honda,1.8,Regular,F,39
+Honda,1.8,Regular,F,36
+Honda,1.8,Regular,F,41
+Honda,1.5,Regular,F,44
+Honda,1.3,Regular,F,44
+Honda,1.3,Regular,F,44
+Honda,2.4,Premium,F,31
+Honda,2.4,Premium,F,29
+Honda,2.4,Premium,F,31
+Hyundai,1.6,Regular,F,40
+Hyundai,1.6,Regular,F,40
+Hyundai,1.6,Regular,F,38
+Hyundai,1.6,Regular,F,40
+Kia,2.0,Regular,F,34
+Kia,2.0,Regular,F,33
+Kia,2.4,Regular,F,31
+Kia,2.4,Regular,F,32
+Kia,1.6,Regular,F,40
+Kia,1.6,Regular,F,40
+MAZDA,1.5,Regular,F,34
+MAZDA,1.5,Regular,F,35
+MAZDA,2.0,Regular,F,33
+MAZDA,2.0,Regular,F,33
+MAZDA,2.5,Regular,F,29
+MAZDA,2.5,Regular,F,28
+MAZDA,2.0,Regular,F,40
+MAZDA,2.0,Regular,F,39
+Mercedes-Benz,1.8,Premium,R,31
+Mitsubishi Motors Co,2.0,Regular,F,34
+Mitsubishi Motors Co,2.0,Regular,F,34
+Mitsubishi Motors Co,2.4,Regular,F,30
+Mitsubishi Motors Co,2.4,Regular,F,31
+Mitsubishi Motors Co,2.4,Regular,A,29
+Mitsubishi Motors Co,2.0,Premium,A,25
+Mitsubishi Motors Co,2.0,Premium,A,22
+Mitsubishi Motors Co,2.0,Premium,A,23
+Nissan,1.6,Regular,F,38
+Nissan,1.6,Regular,F,36
+Nissan,1.8,Regular,F,32
+Nissan,1.8,Regular,F,34
+Nissan,1.8,Regular,F,31
+Subaru,2.0,Regular,A,36
+Subaru,2.0,Regular,A,34
+Subaru,2.5,Premium,A,25
+Subaru,2.5,Premium,A,23
+Suzuki,2.4,Regular,F,30
+Suzuki,2.4,Regular,F,29
+Suzuki,2.4,Regular,F,31
+Suzuki,2.4,Regular,F,31
+Suzuki,2.0,Regular,F,32
+Suzuki,2.0,Regular,F,33
+Suzuki,2.0,Regular,F,30
+Suzuki,2.0,Regular,F,32
+Suzuki,2.4,Regular,A,29
+Suzuki,2.4,Regular,A,30
+Toyota,1.8,Regular,F,40
+Toyota,2.4,Regular,F,34
+Toyota,2.5,Regular,F,31
+Toyota,2.5,Regular,F,31
+Toyota,1.8,Regular,F,34
+Toyota,1.8,Regular,F,34
+Toyota,1.5,Regular,F,46
+Toyota,1.5,Regular,F,35
+Toyota,1.5,Regular,F,38
+Volkswagen,2.0,Regular,F,29
+Volkswagen,2.0,Regular,F,34
+Volkswagen,2.0,Premium,F,31
+Volkswagen,2.0,Premium,F,32
+Volkswagen,2.0,Premium,F,33
+Audi,3.0,Premium,A,28
+Audi,3.0,Premium,A,27
+BMW,3.0,Premium,R,33
+BMW,3.0,Premium,R,30
+BMW,3.0,Premium,R,31
+BMW,3.0,Premium,R,33
+Chrysler Group LLC,3.6,Regular,F,29
+General Motors,3.6,Regular,R,30
+General Motors,3.6,Regular,R,29
+General Motors,3.6,Regular,R,28
+Honda,3.5,Regular,F,29
+Honda,3.5,Regular,F,26
+Honda,3.5,Premium,F,28
+Mercedes-Benz,3.5,Premium,R,29
+Mercedes-Benz,3.5,Premium,R,29
+Mercedes-Benz,3.5,Premium,R,29
+Volkswagen,3.6,Premium,A,25
+BMW,4.4,Premium,R,23
+BMW,4.4,Premium,R,22
+BMW,4.4,Premium,R,23
+BMW,4.4,Premium,R,22
+BMW,4.4,Premium,A,20
+General Motors,6.2,Regular,R,18
+General Motors,6.2,Regular,R,24
+General Motors,6.2,Regular,R,24
+General Motors,6.2,Premium,R,19
+Mercedes-Benz,6.2,Premium,R,19
+Mercedes-Benz,5.5,Premium,R,22
+Mercedes-Benz,4.7,Premium,R,25
+Mercedes-Benz,5.5,Premium,R,25
+Honda,2.4,Regular,F,34
+Honda,2.4,Regular,F,34
+Hyundai,2.0,Regular,F,34
+Hyundai,2.4,Regular,F,35
+Hyundai,2.4,Regular,F,35
+BMW,3.0,Premium,R,28
+BMW,3.0,Premium,R,25
+BMW,3.0,Premium,R,25
+BMW,3.0,Premium,A,27
+Chrysler Group LLC,3.6,Regular,R,27
+Chrysler Group LLC,3.6,Regular,R,31
+Chrysler Group LLC,3.6,Regular,R,27
+Chrysler Group LLC,3.6,Regular,R,31
+Chrysler Group LLC,3.6,Regular,A,27
+Chrysler Group LLC,3.6,Regular,A,27
+Ford Motor Company,3.5,Regular,F,28
+Ford Motor Company,3.5,Regular,F,27
+Ford Motor Company,3.5,Regular,F,25
+Ford Motor Company,3.5,Regular,A,26
+Ford Motor Company,3.5,Regular,A,25
+Ford Motor Company,3.5,Regular,A,25
+Ford Motor Company,3.7,Regular,A,23
+General Motors,3.6,Regular,F,30
+General Motors,3.6,Regular,F,30
+Honda,3.5,Regular,F,30
+Hyundai,3.3,Regular,F,29
+Hyundai,3.8,Regular,R,29
+Mercedes-Benz,3.5,Premium,R,25
+Porsche,3.6,Premium,R,27
+Porsche,3.0,Premium,R,30
+Toyota,3.5,Regular,F,28
+Audi,4.2,Premium,A,28
+BMW,4.4,Premium,R,22
+BMW,4.4,Premium,R,22
+BMW,4.4,Premium,R,22
+BMW,4.4,Premium,R,24
+BMW,4.4,Premium,R,22
+BMW,4.4,Premium,R,22
+BMW,4.4,Premium,A,19
+BMW,4.4,Premium,A,20
+BMW,4.4,Premium,A,20
+BMW,4.4,Premium,A,20
+BMW,4.4,Premium,A,20
+Chrysler Group LLC,6.4,Premium,R,23
+Chrysler Group LLC,6.4,Premium,R,23
+Hyundai,5.0,Premium,R,23
+Hyundai,4.6,Premium,R,26
+Hyundai,5.0,Premium,R,26
+Hyundai,5.0,Premium,R,25
+Jaguar Cars,5.0,Premium,R,23
+Jaguar Cars,5.0,Premium,R,21
+Jaguar Cars,5.0,Premium,R,21
+Jaguar Cars,5.0,Premium,R,22
+Mercedes-Benz,4.7,Premium,R,25
+Mercedes-Benz,5.5,Premium,R,23
+Porsche,4.8,Premium,R,24
+Porsche,4.8,Premium,A,24
+Porsche,4.8,Premium,A,23
+Porsche,4.8,Premium,A,23
+Audi,2.0,Premium,F,33
+BMW,2.0,Premium,R,34
+BMW,2.0,Premium,A,32
+Chrysler Group LLC,2.4,Regular,F,30
+Chrysler Group LLC,2.4,Regular,F,31
+Chrysler Group LLC,2.4,Regular,F,30
+Chrysler Group LLC,2.4,Regular,F,31
+Ford Motor Company,2.5,Regular,F,33
+Ford Motor Company,2.5,Regular,F,30
+Ford Motor Company,2.5,Regular,F,29
+Ford Motor Company,2.5,Regular,F,36
+Ford Motor Company,2.5,Regular,F,32
+Ford Motor Company,2.5,Regular,F,36
+General Motors,2.4,Regular,F,36
+General Motors,2.0,Regular,F,29
+General Motors,2.0,Regular,F,27
+General Motors,2.0,Regular,F,32
+General Motors,2.0,Regular,F,27
+General Motors,2.4,Regular,F,36
+General Motors,2.4,Regular,F,31
+General Motors,2.4,Regular,F,31
+General Motors,1.4,Regular,F,38
+General Motors,1.4,Regular,F,38
+General Motors,1.8,Regular,F,35
+General Motors,1.8,Regular,F,36
+General Motors,1.4,Regular,F,39
+General Motors,1.4,Regular,F,42
+General Motors,2.4,Regular,F,33
+General Motors,2.4,Regular,F,33
+General Motors,1.4,Regular,F,37
+Hyundai,1.8,Regular,F,40
+Hyundai,1.8,Regular,F,40
+Hyundai,2.4,Regular,F,40
+Kia,2.0,Regular,F,36
+Kia,2.0,Regular,F,34
+Kia,2.4,Regular,F,32
+Kia,2.4,Regular,F,32
+Kia,2.0,Regular,F,37
+Kia,2.0,Regular,F,34
+Kia,2.4,Regular,F,35
+Kia,2.4,Regular,F,35
+Kia,2.4,Regular,F,40
+MAZDA,2.0,Regular,F,39
+MAZDA,2.0,Regular,F,38
+MAZDA,2.5,Regular,F,31
+MAZDA,2.5,Regular,F,30
+MAZDA,2.3,Premium,F,25
+Nissan,2.5,Regular,F,32
+Nissan,2.0,Regular,F,34
+Nissan,2.0,Regular,F,31
+Nissan,2.5,Regular,F,30
+Nissan,2.5,Premium,F,28
+Subaru,2.5,Regular,A,31
+Subaru,2.5,Regular,A,27
+Subaru,2.5,Premium,A,25
+Toyota,2.5,Regular,F,35
+Toyota,2.5,Regular,F,39
+Toyota,2.5,Regular,F,38
+Toyota,1.8,Regular,F,48
+Audi,3.0,Premium,A,28
+Audi,3.0,Premium,A,28
+BMW,3.0,Premium,R,31
+BMW,3.0,Premium,R,30
+BMW,3.0,Premium,A,30
+Chrysler Group LLC,3.6,Regular,F,29
+Chrysler Group LLC,3.6,Regular,F,29
+Chrysler Group LLC,3.6,Regular,R,27
+Ford Motor Company,3.5,Regular,F,27
+Ford Motor Company,3.0,Regular,F,28
+Ford Motor Company,3.5,Regular,F,27
+Ford Motor Company,3.5,Regular,A,25
+Ford Motor Company,3.0,Regular,A,26
+Ford Motor Company,3.5,Regular,A,25
+General Motors,3.6,Regular,F,27
+General Motors,3.6,Regular,F,27
+General Motors,3.6,Regular,F,26
+General Motors,3.6,Regular,R,27
+General Motors,3.6,Regular,R,26
+General Motors,3.6,Regular,A,26
+General Motors,3.0,Regular,A,26
+General Motors,3.6,Regular,A,27
+Honda,3.5,Premium,F,29
+Honda,3.7,Premium,A,24
+Honda,3.7,Premium,A,26
+Honda,3.7,Premium,A,25
+MAZDA,3.7,Regular,F,27
+Mercedes-Benz,3.5,Premium,R,30
+Nissan,3.5,Regular,F,27
+Nissan,3.5,Premium,F,26
+Nissan,2.5,Premium,R,29
+Nissan,3.5,Premium,R,32
+Nissan,2.5,Premium,A,27
+Nissan,3.7,Premium,R,27
+Nissan,3.7,Premium,R,25
+Nissan,3.7,Premium,R,26
+Nissan,3.7,Premium,A,25
+Nissan,3.7,Premium,A,24
+Subaru,3.6,Regular,A,25
+Toyota,3.5,Regular,F,28
+Toyota,3.5,Regular,F,30
+Volkswagen,3.6,Premium,F,28
+Audi,4.2,Premium,A,28
+BMW,4.4,Premium,R,23
+BMW,4.4,Premium,R,22
+BMW,4.4,Premium,R,24
+BMW,4.4,Premium,A,20
+Chrysler Group LLC,6.4,Premium,R,23
+Chrysler Group LLC,5.7,Premium,R,23
+Chrysler Group LLC,6.4,Premium,R,23
+General Motors,6.2,Premium,R,18
+General Motors,6.2,Premium,R,19
+Jaguar Cars,5.0,Premium,R,21
+Jaguar Cars,5.0,Premium,R,23
+Mercedes-Benz,5.5,Premium,R,24
+Nissan,5.6,Premium,R,24
+Nissan,5.6,Premium,A,23
+Toyota,4.6,Premium,R,24
+Toyota,4.6,Premium,R,24
+Toyota,4.6,Premium,A,23
+Toyota,4.6,Premium,A,23
+Toyota,5.0,Premium,A,23
