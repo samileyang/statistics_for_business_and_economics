@@ -1,0 +1,20 @@
+Chi Square Test,,,,
+,,,,
+Observed Frequencies,,,,
+,,,,
+,Populations,,,
+Likely Purchase,Chevrolet Impala,Ford Fusion,Honda Accord,Total
+Yes,69,120,123,312
+No,56,80,52,188
+Total,125,200,175,500
+,,,,
+,,,,
+Expected Frequencies,,,,
+,,,,
+,Populations,,,
+Likely Purchase,Chevrolet Impala,Ford Fusion,Honda Accord,Total
+Yes,78,124.8,109.2,312
+No,47,75.2,65.8,188
+Total,125,200,175,500
+,,,,
+,,,p-value,0.0193
