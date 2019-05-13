@@ -1,0 +1,301 @@
+Restaurant,Quality Rating,Meal Price ($)
+1,Good,18
+2,Very Good,22
+3,Good,28
+4,Excellent,38
+5,Very Good,33
+6,Good,28
+7,Very Good,19
+8,Very Good,11
+9,Very Good,23
+10,Good,13
+11,Very Good,33
+12,Very Good,44
+13,Excellent,42
+14,Excellent,34
+15,Good,25
+16,Good,22
+17,Good,26
+18,Excellent,17
+19,Very Good,30
+20,Good,19
+21,Very Good,33
+22,Very Good,22
+23,Excellent,32
+24,Excellent,33
+25,Very Good,34
+26,Very Good,38
+27,Good,27
+28,Good,27
+29,Very Good,26
+30,Very Good,34
+31,Very Good,35
+32,Good,25
+33,Excellent,44
+34,Good,26
+35,Excellent,47
+36,Good,10
+37,Excellent,35
+38,Good,12
+39,Good,15
+40,Excellent,27
+41,Good,19
+42,Excellent,45
+43,Very Good,32
+44,Very Good,14
+45,Excellent,40
+46,Excellent,31
+47,Very Good,17
+48,Very Good,20
+49,Excellent,36
+50,Excellent,24
+51,Very Good,38
+52,Good,10
+53,Very Good,10
+54,Excellent,21
+55,Very Good,34
+56,Very Good,31
+57,Excellent,25
+58,Good,22
+59,Very Good,28
+60,Good,10
+61,Very Good,27
+62,Excellent,41
+63,Very Good,35
+64,Good,11
+65,Good,18
+66,Excellent,40
+67,Very Good,48
+68,Excellent,26
+69,Very Good,12
+70,Good,20
+71,Very Good,38
+72,Very Good,36
+73,Very Good,37
+74,Very Good,24
+75,Very Good,18
+76,Very Good,34
+77,Very Good,28
+78,Very Good,25
+79,Very Good,25
+80,Very Good,30
+81,Very Good,21
+82,Excellent,28
+83,Very Good,16
+84,Good,23
+85,Excellent,46
+86,Very Good,14
+87,Good,11
+88,Very Good,20
+89,Very Good,32
+90,Excellent,20
+91,Very Good,24
+92,Very Good,14
+93,Very Good,24
+94,Excellent,33
+95,Good,23
+96,Very Good,28
+97,Very Good,17
+98,Excellent,28
+99,Very Good,16
+100,Excellent,31
+101,Very Good,27
+102,Excellent,30
+103,Good,33
+104,Excellent,32
+105,Good,19
+106,Very Good,25
+107,Very Good,25
+108,Good,20
+109,Excellent,37
+110,Very Good,27
+111,Very Good,28
+112,Good,20
+113,Very Good,31
+114,Very Good,26
+115,Very Good,38
+116,Good,15
+117,Good,25
+118,Very Good,40
+119,Very Good,35
+120,Good,20
+121,Very Good,23
+122,Very Good,13
+123,Good,20
+124,Good,20
+125,Good,10
+126,Very Good,17
+127,Very Good,20
+128,Very Good,21
+129,Excellent,35
+130,Excellent,41
+131,Good,28
+132,Excellent,30
+133,Very Good,31
+134,Excellent,33
+135,Excellent,32
+136,Good,18
+137,Good,27
+138,Excellent,38
+139,Very Good,23
+140,Very Good,32
+141,Very Good,25
+142,Very Good,28
+143,Good,19
+144,Very Good,14
+145,Very Good,19
+146,Very Good,18
+147,Very Good,16
+148,Very Good,42
+149,Very Good,12
+150,Good,14
+151,Very Good,26
+152,Good,15
+153,Very Good,14
+154,Good,20
+155,Very Good,30
+156,Good,16
+157,Good,21
+158,Excellent,35
+159,Very Good,30
+160,Very Good,31
+161,Very Good,28
+162,Very Good,19
+163,Excellent,43
+164,Good,17
+165,Excellent,27
+166,Excellent,32
+167,Excellent,36
+168,Very Good,21
+169,Very Good,11
+170,Excellent,48
+171,Very Good,13
+172,Good,19
+173,Very Good,35
+174,Very Good,28
+175,Good,13
+176,Very Good,32
+177,Excellent,27
+178,Very Good,33
+179,Very Good,37
+180,Very Good,28
+181,Good,24
+182,Good,10
+183,Very Good,36
+184,Very Good,37
+185,Very Good,25
+186,Very Good,11
+187,Good,11
+188,Very Good,11
+189,Good,10
+190,Good,29
+191,Very Good,14
+192,Very Good,21
+193,Good,28
+194,Very Good,42
+195,Very Good,30
+196,Excellent,41
+197,Good,22
+198,Good,23
+199,Very Good,27
+200,Very Good,13
+201,Very Good,28
+202,Good,12
+203,Excellent,23
+204,Very Good,30
+205,Good,17
+206,Good,20
+207,Good,20
+208,Good,26
+209,Good,18
+210,Very Good,13
+211,Very Good,25
+212,Very Good,22
+213,Very Good,27
+214,Very Good,21
+215,Very Good,32
+216,Very Good,16
+217,Very Good,20
+218,Good,27
+219,Excellent,44
+220,Very Good,35
+221,Very Good,21
+222,Very Good,30
+223,Good,23
+224,Good,19
+225,Very Good,18
+226,Excellent,36
+227,Good,29
+228,Very Good,20
+229,Good,17
+230,Very Good,45
+231,Good,20
+232,Excellent,41
+233,Good,26
+234,Good,16
+235,Very Good,23
+236,Excellent,31
+237,Very Good,23
+238,Very Good,20
+239,Very Good,38
+240,Good,17
+241,Excellent,46
+242,Very Good,26
+243,Very Good,24
+244,Very Good,21
+245,Excellent,30
+246,Excellent,13
+247,Excellent,23
+248,Very Good,25
+249,Very Good,28
+250,Very Good,13
+251,Very Good,27
+252,Very Good,15
+253,Good,11
+254,Excellent,40
+255,Good,28
+256,Excellent,46
+257,Very Good,32
+258,Good,12
+259,Good,37
+260,Excellent,22
+261,Excellent,42
+262,Very Good,21
+263,Excellent,32
+264,Excellent,34
+265,Very Good,37
+266,Excellent,20
+267,Very Good,21
+268,Very Good,16
+269,Excellent,47
+270,Very Good,33
+271,Excellent,48
+272,Very Good,33
+273,Very Good,25
+274,Very Good,34
+275,Very Good,20
+276,Excellent,36
+277,Excellent,40
+278,Good,13
+279,Very Good,12
+280,Very Good,27
+281,Very Good,20
+282,Excellent,30
+283,Good,29
+284,Very Good,22
+285,Good,27
+286,Very Good,20
+287,Excellent,37
+288,Very Good,27
+289,Good,23
+290,Good,16
+291,Very Good,23
+292,Very Good,24
+293,Excellent,45
+294,Good,14
+295,Good,18
+296,Good,17
+297,Good,16
+298,Good,15
+299,Very Good,38
+300,Very Good,31
