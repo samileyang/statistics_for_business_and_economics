@@ -1,0 +1,26 @@
+Computing  p-Values,,,,
+,,,,
+,,,,
+Using the Test Statistic z,,,Using the Test Statistic t,
+,,,,
+Enter z -->,-2.67,,Enter t -->,1.84
+,,,df -->,59
+,,,,
+p-value (Lower Tail),0.0038,,p-value (Lower Tail),0.9646
+p-value (Upper Tail),0.9962,,p-value (Upper Tail),0.0354
+p-value (Two Tail),0.0076,,p-value (Two Tail),0.0708
+,,,,
+,,,,
+,,,,
+,,,,
+Using the Test Statistic Chi Square ,,,Using the Test Statistic F,
+,,,,
+Enter Chi Square -->,28.18,,Enter F -->,2.40
+df -->,23,,Numerator df -->,25
+,,,Denominator df -->,15
+,,,,
+p-value (Lower Tail),0.7909,,p-value (Lower Tail),0.9594
+p-value (Upper Tail),0.2091,,p-value (Upper Tail),0.0406
+p-value (Two Tail),0.4181,,p-value (Two Tail),0.0812
+,,,,
+,,,,
